@@ -1,3 +1,1 @@
-- 👋 Hi, I’m Rodrigo Coto
-- I’m interested in Web Development and Cyber Security
-- I’m looking to collaborate in OpenSource projects
+Software developer enthusiastic about collaborative programming (pair/mob programming), Test-Driven Development (TDD), Continuous Delivery, and Lean Software Development. Dedicated to delivering meticulously crafted, thoroughly tested, maintainable, and scalable software solutions.
